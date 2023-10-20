@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doomquest3&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias do meu dia
+## Tecnologias mais utilizadas
 
 <div style="display: inline_block"></br>
     <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
