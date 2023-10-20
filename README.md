@@ -6,6 +6,8 @@
 
 ![Leandro de Jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=doomquest3&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doomquest3&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias do meu dia
 
 <div style="display: inline_block"></br>
